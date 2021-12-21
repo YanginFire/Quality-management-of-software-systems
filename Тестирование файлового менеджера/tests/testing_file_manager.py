@@ -2,8 +2,8 @@ import os
 import shutil
 import pytest
 
-const_dir_path = "/Users/katya/PycharmProjects/testing_file_manager/test"
-const_file_path = "/Users/katya/PycharmProjects/testing_file_manager/test.txt"
+const_dir_path = "/Users/Yangin/PycharmProjects/testing_file_manager/test"
+const_file_path = "/Users/Yangin/PycharmProjects/testing_file_manager/test.txt"
 
 
 # ФИКСТУРЫ
