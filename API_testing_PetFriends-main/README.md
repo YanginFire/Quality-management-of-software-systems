@@ -1,4 +1,4 @@
-# API_testing_PetFriends
+# Тестирование API сайта PetFriends
 
 # Задание 3 
 
