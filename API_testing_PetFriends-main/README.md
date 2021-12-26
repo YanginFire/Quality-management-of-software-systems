@@ -56,5 +56,7 @@ IDE: VS Code, Pycharm, Replit
 
 В файлах variable_with_invalid_data.py и variable_with_valid_data.py описаны данные которые понадобяться для тестирования получения ключа пользователя и вход с валидными и не валидными данными
 
+Проверим работаспособность программы для тестирования с помощью библиотек requests и pytest
+![image](https://user-images.githubusercontent.com/90453727/147416197-5888477c-3dce-4057-8bcc-4f3d9d3d1737.png)
 
 
